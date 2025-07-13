@@ -1,6 +1,9 @@
 # Netflix GPT
 - Create React App
 - Configure Tailwind CSS
+- Created Routing For our Components
+- Created Login Page and Sign In & Sing Up Forms
+- Form Validation
 
 # Features
 - Login/SigIn Page
